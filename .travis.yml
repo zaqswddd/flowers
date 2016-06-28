@@ -1,0 +1,13 @@
+language: dita
+install:
+- echo "Installed"
+script:
+- sh .travis/publish.sh
+after_success:
+- sh .travis/deploy.sh
+env:
+  global:
+    secure: yTPErvoTpAtp/84VnGSZHeFUQe01OXkTyuJMTOqY2yTvXxbwzWYW68xnIP8p8zk3Eg7ABETruDlIGdG/ImNFVPZkCpaw+B0RMWUEouPWcsgkdm1DESqcAUU5p6haSAfWzu+eVeDT3KuxnTjS0J8CZqypDbHgpGfwYOFuaL9wN/WrePD11oTTtG80CVj61LBW8gk07BD4/cnJcC+K+hw0Bsrh3/C3m709O/SlfeqQ14Ab3YjJqbB0Oi+0DGecoVjQ6YcJo7XjcLhRC1lpmzte5Kva65LxFkrY19OokYnhQepPJHiXmZ/+vfK8wkzi9zSIVOMncrKEMvs1DnCX/K6YnNEvtBnQAIvF0q9STyAQmcV0nUDlwc7o01lKR4uVge8tdvLIqfsxv3juRR+/RGRoqax4AK/+GmQvqArxzGc5G+sfeUkQKM+YDgmOKOREYYCwtlpwJ5u+Ao96XawSZzzARDwWgoVYtzfgXHxRroDgjsUnzaQlQQXzhKQobBu5mVSTR0Tnn/oO+mkCwxe8+VphRb7junfUSboN5kE8te2aJdhOKyQIX8i+UCk8Pw5x9f2msQz7D6w3R54LjjfuALmM0r09RZyCUHKy92VNnJfBJZtzOIzphg0Upfu63bpXtbsjBxDx2QCLv0Jk7kbkL6C0wD3bjuIfV/LzeYHxfFUFsEg=
+before_install:
+- openssl aes-256-cbc -K $encrypted_8e32c9d6e4e9_key -iv $encrypted_8e32c9d6e4e9_iv
+  -in licenseKey.txt.enc -out licenseKey.txt -d
