@@ -3,6 +3,56 @@
 <topic id="topic_sdf_dst_yt">
   <title></title>
   <body>
-    <p></p>
+    <p>
+      <table id="table_nzp_1yt_w4b">
+        <title/>
+        <tgroup cols="4">
+          <colspec colname="newCol2" colnum="1" colwidth="1*"/>
+          <colspec colname="newCol1" colnum="2" colwidth="1*"/>
+          <colspec colname="c1" colnum="3" colwidth="1*"/>
+          <colspec colname="c2" colnum="4" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </p>
   </body>
 </topic>
