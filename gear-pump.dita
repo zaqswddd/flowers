@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="gear_pump">
-    <title>Gear Pump - Exploded View1</title>
+    <title>Gear Pump - Exploded View</title>
   <shortdesc>Detailed description.</shortdesc>
     <body>
         <p>A <b>gear pump</b> uses the meshing of gears to pump fluid by displacement. They are one
             of the most common types of <term>pumps</term> for hydraulic fluid power applications.
                 <term>Gear pumps</term> are also widely used in chemical installations to pump high
-            viscosity fluids.</p>
+            viscosity fluids.1</p>
         <example>
             <title>An exploded view diagram of a gear pump </title>
             <p>Click on <uicontrol>Edit image map</uicontrol> to edit the map, or use
