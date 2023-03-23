@@ -29,7 +29,7 @@
   <book>
     <frontmatter>
       <doctitle>Book Title!A</doctitle>
-      <docauthor>Book Author</docauthor>
+      <docauthor>Book AuthorB</docauthor>
     </frontmatter>
   </book>
 </dtbook>
