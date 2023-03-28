@@ -28,8 +28,8 @@
   </head>
   <book>
     <frontmatter>
-      <doctitle>Book Title!ACC</doctitle>
-      <docauthor>Book AuthorB</docauthor>
+      <doctitle>Book Title!</doctitle>
+      <docauthor>Book Author</docauthor>
     </frontmatter>
   </book>
 </dtbook>
