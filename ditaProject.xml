@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="first" name="First">
+        <input href="flowers.ditamap"/>
+        <profile>
+            <ditaval href="val.ditaval"/>
+        </profile>
+    </context>
+</project>
