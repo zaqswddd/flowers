@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns="https://www.dita-ot.org/project">
+    <context id="fourth_pub" name="Fourth pub">
+        <input href="flowers.ditamap"/>
+        <profile>
+            <ditaval href="val.ditaval"/>
+        </profile>
+    </context>
+    <context id="third_pub" name="Third pub">
+        <input href="flowers.ditamap"/>
+    </context>
+    <context id="second_pub" name="Second pub">
+        <input href="flowers.ditamap"/>
+    </context>
+    <context id="first_pub" name="First pub">
+        <input href="flowers.ditamap"/>
+    </context>
+</project>
