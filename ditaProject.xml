@@ -6,7 +6,4 @@
             <ditaval href="val.ditaval"/>
         </profile>
     </context>
-    <context id="third_pub" name="Third pub">
-        <input href="flowers.ditamap"/>
-    </context>
 </project>
