@@ -6,10 +6,4 @@
             <ditaval href="val.ditaval"/>
         </profile>
     </context>
-    <context id="first" name="First">
-        <input href="flowers.ditamap"/>
-        <profile>
-            <ditaval href="val.ditaval"/>
-        </profile>
-    </context>
 </project>
