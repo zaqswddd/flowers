@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="test" name="test">
+        <input href="test"/>
+        <profile>
+            <ditaval href="TEST"/>
+        </profile>
+    </context>
     <context id="second_pub" name="Second pub">
         <input href="flowers.ditamap"/>
     </context>
