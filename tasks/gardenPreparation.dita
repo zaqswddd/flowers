@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
 <task id="taskId">
-    <title>Garden PreparationAD</title>
+    <title>Garden PreparationADD</title>
     <taskbody>
         <context>
             <p>An appreciation of the conditions under which bulbs grow in nature is of considerable
@@ -15,7 +15,7 @@
         </context>
         <steps>
             <step>
-                <cmd>Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
+                <cmd>Handle bulbs carefully!. Any scarred or punctured bulb is more susceptible to
                     decay or
                         infestation.<indexterm>general<indexterm>planting</indexterm></indexterm></cmd>
             </step>
