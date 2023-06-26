@@ -3,9 +3,6 @@
     <context id="leraning" name="Learning">
         <input href="LearningMap.ditamap"/>
     </context>
-    <context id="all_flowers_" name="All Flowers ">
-        <input href="flowers.ditamap"/>
-    </context>
     <context id="second_pub" name="Second pub">
         <input href="flowers.ditamap"/>
     </context>
