@@ -3,7 +3,7 @@
     <context id="second_pub" name="Second pub">
         <input href="flowers.ditamap"/>
     </context>
-    <context id="first_pub" name="First pub">
+    <context id="first_pub" name="First pub11">
         <input href="flowers.ditamap"/>
         <profile>
             <ditaval href="asd.val"/>
